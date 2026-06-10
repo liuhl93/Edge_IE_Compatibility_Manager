@@ -1,0 +1,1 @@
+# Edge_IE_Compatibility_Manager
